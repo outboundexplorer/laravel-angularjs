@@ -1,4 +1,9 @@
-###using $q.all to specify that all included promises must first be fulfilled						
+##using $q.all to specify that all included promises must first be fulfilled
+
+#####simple implementation of form validation			
+#####using angular.bind to equate controller as 'this' and $scope 'this'			
+#####injecting $scope when using controller as syntax			
+
 
 https://egghead.io/lessons/angularjs-q-all 
 
