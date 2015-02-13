@@ -1,0 +1,1 @@
+###using $q.all to specify that all included promises must first be fulfilled						
